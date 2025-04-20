@@ -14,7 +14,7 @@ import os
 
 load_dotenv()
 app=FastAPI()
-print(os.getenv("firebase_json"))
+
 
 
 
