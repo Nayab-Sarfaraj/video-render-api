@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Local settings
+*.env
+.env.*
+secrets.toml
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Uvicorn and Gunicorn logs
+gunicorn.log
+gunicorn.pid
+
+# Docker
+*.pid
+*.tar
+*.db
+
+# Database
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Node modules (if using with frontend)
+node_modules/
+
+
+serviceAccountKey.json
+
