@@ -29,10 +29,6 @@ supabase: Client = create_client(SUPABASE_URL, SUPABASE_API_KEY)
 
 
 
-# cred = credentials.Certificate("serviceAccountKey.json")
-# firebase_admin.initialize_app(cred, {
-#     'storageBucket': 'chat-to-myself.appspot.com'
-# })
 
 
 
